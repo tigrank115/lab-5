@@ -102,8 +102,8 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 
 - `LoggedInView.java` (tip: refer to the other views for similar code)
 
-  - [ ] TODO: save the logout controller in the instance variable.
-  - [ ] TODO: execute the logout use case through the Controller
+  - [X] TODO: save the logout controller in the instance variable.
+  - [X] TODO: execute the logout use case through the Controller
 
 * * *
 
@@ -127,7 +127,7 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 
 - `LogoutOutputData.java`
 
-  - [ ] TODO: save the parameters in the instance variables.
+  - [X] TODO: save the parameters in the instance variables.
 
 * * *
 
